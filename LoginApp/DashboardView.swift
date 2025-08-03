@@ -13,6 +13,7 @@ struct DashboardView: View {
         Text("Hello Github :)")
         Text("Hello Github Again:)")
         Text("Hello Github 112 :)")
+        Text("Hello Github 11:)")
     }
 }
 
