@@ -10,8 +10,6 @@ import SwiftUI
 struct DashboardView: View {
     var body: some View {
         Text("Hello, World!")
-        Text("Hello Github :)")
-        Text("Hello Github Again:)")
     }
 }
 
